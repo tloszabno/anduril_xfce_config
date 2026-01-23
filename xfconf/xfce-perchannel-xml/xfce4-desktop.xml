@@ -4,10 +4,10 @@
   <property name="desktop-icons" type="empty">
     <property name="style" type="empty"/>
     <property name="file-icons" type="empty">
-      <property name="show-home" type="empty"/>
+      <property name="show-home" type="bool" value="false"/>
       <property name="show-filesystem" type="empty"/>
       <property name="show-removable" type="empty"/>
-      <property name="show-trash" type="empty"/>
+      <property name="show-trash" type="bool" value="false"/>
     </property>
     <property name="icon-size" type="empty"/>
     <property name="tooltip-size" type="empty"/>
@@ -21,6 +21,7 @@
         <property name="workspace0" type="empty">
           <property name="last-image" type="string" value="/home/tomek/Pictures/your-name-shooting-3840x2160-14938.jpg"/>
           <property name="image-style" type="int" value="0"/>
+          <property name="color-style" type="int" value="0"/>
         </property>
       </property>
       <property name="monitor1" type="empty">
@@ -53,14 +54,14 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="4"/>
-          <property name="last-image" type="string" value="/home/tomek/Pictures/your-name-shooting-3840x2160-14938.jpg"/>
+          <property name="last-image" type="string" value="/home/tomek/Pictures/island-night-moon-scenery-digital-art-4k-wallpaper-uhdpaper.com-289@0@j.jpg"/>
         </property>
       </property>
       <property name="monitorDP-2-8" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="4"/>
-          <property name="last-image" type="string" value="/home/tomek/Pictures/your-name-shooting-3840x2160-14938.jpg"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/tomek/Pictures/island-night-moon-scenery-digital-art-4k-wallpaper-uhdpaper.com-289@0@j.jpg"/>
         </property>
       </property>
     </property>

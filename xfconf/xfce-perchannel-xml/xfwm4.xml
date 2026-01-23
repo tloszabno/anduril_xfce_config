@@ -5,7 +5,7 @@
     <property name="activate_action" type="empty"/>
     <property name="box_move" type="empty"/>
     <property name="box_resize" type="empty"/>
-    <property name="button_layout" type="empty"/>
+    <property name="button_layout" type="string" value="CMHO|"/>
     <property name="button_offset" type="empty"/>
     <property name="button_spacing" type="empty"/>
     <property name="click_to_focus" type="empty"/>
@@ -22,7 +22,7 @@
     <property name="mousewheel_rollup" type="empty"/>
     <property name="placement_mode" type="empty"/>
     <property name="raise_delay" type="empty"/>
-    <property name="raise_on_click" type="empty"/>
+    <property name="raise_on_click" type="bool" value="true"/>
     <property name="raise_on_focus" type="empty"/>
     <property name="repeat_urgent_blink" type="empty"/>
     <property name="scroll_workspaces" type="empty"/>

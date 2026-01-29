@@ -16,8 +16,8 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="320"/>
-        <property name="Y" type="int" value="1440"/>
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
     <property name="DP-1" type="string" value="Dell Inc. 24&quot;">
@@ -57,7 +57,7 @@
   </property>
   <property name="Fallback" type="empty">
     <property name="eDP-1" type="string" value="Laptop">
-      <property name="Active" type="bool" value="false"/>
+      <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="f4d5ea11c5a7f3958c490e7d27c06d48323d2a6a"/>
       <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60.007852375343539"/>
@@ -69,8 +69,8 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="320"/>
-        <property name="Y" type="int" value="1440"/>
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
     <property name="DP-1" type="string" value="Dell Inc. 24&quot;">
@@ -111,7 +111,7 @@
   <property name="Notify" type="int" value="3"/>
   <property name="04675e24f406ab15576a5dd9f04f7b9b741135a1" type="string" value="3m">
     <property name="eDP-1" type="string" value="Laptop">
-      <property name="Active" type="bool" value="true"/>
+      <property name="Active" type="bool" value="false"/>
       <property name="EDID" type="string" value="f4d5ea11c5a7f3958c490e7d27c06d48323d2a6a"/>
       <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60.007852375343539"/>

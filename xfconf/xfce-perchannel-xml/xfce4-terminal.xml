@@ -16,4 +16,5 @@
   <property name="misc-default-geometry" type="string" value="140x40"/>
   <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
   <property name="background-darkness" type="double" value="0.92000000000000004"/>
+  <property name="misc-confirm-close" type="bool" value="false"/>
 </channel>

@@ -7,11 +7,12 @@
     <property name="panel-1" type="empty">
       <property name="autohide-behavior" type="uint" value="0"/>
       <property name="background-style" type="uint" value="0"/>
-      <property name="length" type="uint" value="100"/>
+      <property name="length" type="double" value="100"/>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="mode" type="uint" value="0"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
+        <value type="int" value="3"/>
         <value type="int" value="17"/>
         <value type="int" value="2"/>
         <value type="int" value="5"/>
@@ -22,7 +23,7 @@
         <value type="int" value="10"/>
         <value type="int" value="11"/>
       </property>
-      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="position" type="string" value="p=9;x=1274;y=14"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="size" type="uint" value="26"/>
       <property name="span-monitors" type="bool" value="false"/>
@@ -40,8 +41,8 @@
     </property>
     <property name="plugin-1" type="string" value="whiskermenu">
       <property name="recent" type="array">
-        <value type="string" value="xfce-display-settings.desktop"/>
         <value type="string" value="chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop"/>
+        <value type="string" value="xfce-display-settings.desktop"/>
         <value type="string" value="chrome-bbdeiblfgdokhlblpgeaokenkfknecgl-Default.desktop"/>
         <value type="string" value="chrome-eilembjdkfgodjkcjnpgpaenohkicgjd-Default.desktop"/>
         <value type="string" value="org.keepassxc.KeePassXC.desktop"/>
@@ -70,8 +71,8 @@
     <property name="plugin-10" type="string" value="clock">
       <property name="digital-format" type="string" value=" %d %b, %H:%M "/>
       <property name="digital-layout" type="uint" value="3"/>
-      <property name="digital-time-format" type="string" value="   %H:%M %d %b   "/>
-      <property name="digital-time-font" type="string" value="Monaco 11"/>
+      <property name="digital-time-format" type="string" value="  %H:%M   %d %b  "/>
+      <property name="digital-time-font" type="string" value="JetBrains Mono 11"/>
     </property>
     <property name="plugin-2" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -80,6 +81,7 @@
     <property name="plugin-5" type="string" value="systray">
       <property name="icon-size" type="int" value="0"/>
       <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-5110"/>
         <value type="string" value="dropbox-client-3662"/>
         <value type="string" value="dropbox-client-3125"/>
         <value type="string" value="dropbox-client-3578"/>
@@ -152,6 +154,11 @@
       <property name="sort-order" type="uint" value="4"/>
       <property name="middle-click" type="uint" value="3"/>
       <property name="include-all-workspaces" type="bool" value="true"/>
+      <property name="flat-buttons" type="bool" value="false"/>
+      <property name="show-handle" type="bool" value="false"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
     </property>
   </property>
 </channel>

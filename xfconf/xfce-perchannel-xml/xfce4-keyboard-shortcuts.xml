@@ -49,7 +49,6 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Super&gt;f" type="string" value="exo-open --launch FileManager"/>
       <property name="&lt;Alt&gt;F1" type="string" value="xfce4-popup-applicationsmenu"/>
-      <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
       <property name="&lt;Super&gt;l" type="string" value="xflock4"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="XF86Music" type="string" value="rhythmbox"/>
@@ -59,7 +58,6 @@
         <property name="startup-notify" type="bool" value="true"/>
       </property>
       <property name="XF86Explorer" type="string" value="exo-open --launch FileManager"/>
-      <property name="&lt;Super&gt;m" type="string" value="exo-open --launch MailReader"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="xfce4-taskmanager"/>
       <property name="&lt;Alt&gt;&lt;Super&gt;s" type="string" value="orca"/>
       <property name="XF86Calculator" type="string" value="mate-calc"/>
@@ -81,6 +79,11 @@
       <property name="&lt;Super&gt;Return" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;1" type="string" value="/home/tomek/.screenlayout/3m.sh"/>
       <property name="&lt;Super&gt;a" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;dollar" type="string" value="flameshot gui"/>
+      <property name="&lt;Super&gt;m" type="string" value="switcher messenger"/>
+      <property name="&lt;Super&gt;c" type="string" value="switcher google-chrome"/>
+      <property name="&lt;Super&gt;w" type="string" value="switcher whatsup"/>
+      <property name="&lt;Super&gt;k" type="string" value="keepassxc"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

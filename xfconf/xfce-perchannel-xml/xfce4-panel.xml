@@ -41,6 +41,9 @@
     </property>
     <property name="plugin-1" type="string" value="whiskermenu">
       <property name="recent" type="array">
+        <value type="string" value="kitty.desktop"/>
+        <value type="string" value="kvantummanager.desktop"/>
+        <value type="string" value="kdesystemsettings.desktop"/>
         <value type="string" value="chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop"/>
         <value type="string" value="xfce-display-settings.desktop"/>
         <value type="string" value="chrome-bbdeiblfgdokhlblpgeaokenkfknecgl-Default.desktop"/>
@@ -48,9 +51,6 @@
         <value type="string" value="org.keepassxc.KeePassXC.desktop"/>
         <value type="string" value="virtualbox.desktop"/>
         <value type="string" value="com.usebottles.bottles.desktop"/>
-        <value type="string" value="com.github.tchx84.Flatseal.desktop"/>
-        <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="arandr.desktop"/>
       </property>
       <property name="button-icon" type="string" value="tux"/>
       <property name="button-title" type="string" value="  Apps  "/>

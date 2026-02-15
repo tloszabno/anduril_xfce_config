@@ -18,9 +18,9 @@
         <value type="int" value="5"/>
         <value type="int" value="6"/>
         <value type="int" value="7"/>
+        <value type="int" value="10"/>
         <value type="int" value="8"/>
         <value type="int" value="9"/>
-        <value type="int" value="10"/>
         <value type="int" value="11"/>
       </property>
       <property name="position" type="string" value="p=9;x=1274;y=14"/>
@@ -66,12 +66,13 @@
         <value type="string" value="xfhelp4.desktop"/>
         <value type="string" value="chrome-bbdeiblfgdokhlblpgeaokenkfknecgl-Default.desktop"/>
         <value type="string" value="chrome-eilembjdkfgodjkcjnpgpaenohkicgjd-Default.desktop"/>
+        <value type="string" value="kitty.desktop"/>
       </property>
     </property>
     <property name="plugin-10" type="string" value="clock">
       <property name="digital-format" type="string" value=" %d %b, %H:%M "/>
       <property name="digital-layout" type="uint" value="3"/>
-      <property name="digital-time-format" type="string" value="  %H:%M   %d %b  "/>
+      <property name="digital-time-format" type="string" value="    %d %b %H:%M    "/>
       <property name="digital-time-font" type="string" value="JetBrains Mono 11"/>
     </property>
     <property name="plugin-2" type="string" value="separator">
@@ -81,6 +82,7 @@
     <property name="plugin-5" type="string" value="systray">
       <property name="icon-size" type="int" value="0"/>
       <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-4027"/>
         <value type="string" value="dropbox-client-5110"/>
         <value type="string" value="dropbox-client-3662"/>
         <value type="string" value="dropbox-client-3125"/>
